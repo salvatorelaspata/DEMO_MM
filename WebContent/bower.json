@@ -1,0 +1,10 @@
+{
+  "name": "DEMO",
+  "description": "DEMO CUBE",
+  "dependencies": {
+    "jquery": "latest",
+    "bootstrap": "latest",
+    "normalize-css": "latest"
+  },
+  "private": true
+}
